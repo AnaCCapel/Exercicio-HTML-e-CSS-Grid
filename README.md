@@ -2,8 +2,8 @@
 
 🎬 Este projeto é uma página de layout inspirada no YouTube, feita para treinar HTML5 e CSS3 com Grid.
 
-✔️ Vídeo em destaque com descrição;
-✔️ Área de propaganda estilizada;
+✔️ Vídeo em destaque com descrição; <br>
+✔️ Área de propaganda estilizada;<br>
 ✔️ Lista lateral de vídeos relacionados.
 
 ## 🖼️ Demonstração:
