@@ -1,0 +1,62 @@
+body {
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+}
+
+.video {
+    grid-area: video;
+}
+
+.lateral {
+    grid-area: lateral;
+}
+
+.mini-video {
+    grid-area: mini;
+}
+
+.detalhes {
+    grid-area: detalhes;
+}
+
+.container {
+    margin: auto;
+    margin-top: 80px;
+    max-width: 900px;
+    padding: 34px;
+    display: grid;
+    grid: "video lateral";
+    grid-column-gap: 40px;
+    background-color: #F7F7F7;
+}
+
+.video p {
+    font-size: 16px;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.video h2 {
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.video h1 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.titulo {
+    font-size: 14px;
+}
+
+.itens {
+    margin-top: 40px;
+    display: grid;
+    grid: "mini detalhes detalhes" 60px / 110px;
+}
+
+.itens p {
+    font-size: 11px;
+}
